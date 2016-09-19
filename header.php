@@ -54,27 +54,24 @@
                     </ul>
                     <ul class=" nav navbar-nav navbar-right">
 
-                    <?php if (isset($_SESSION["id_member"])){
-                        ?>
+                  
                     <li>
-                        <a href="logout.php">Logout</a>
+                        <a href="logout.php">Un autre truc de luxe</a>
                     </li>
 
-                    <?php
-                    }
-                    else {
-                    ?>
+                   
+            
+                 
+                
                     <li>
-                        <a href="signin.php">Inscription</a>
+                        <a href="signin.php">Voitures de luxe</a>
                     </li>
                     <li>
-                        <a href="login.php">Login</a>
+                        <a href="login.php">Montres de luxe</a>
                     </li>
 
 
-                    <?php
-                    }
-                    ?>
+                
                 </ul>
             </div>
 
