@@ -1,7 +1,11 @@
-#ouioui {
-  color: red;
+.ouioui {
+  color: red !important;
 }
 
-#nonnon {
+.nonnon {
   color: blue;
+}
+
+.col-md-2 {
+  background-color: blue;
 }
