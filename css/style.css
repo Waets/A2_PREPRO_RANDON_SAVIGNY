@@ -16,12 +16,16 @@
   opacity: 1.0;
 }
 
-.texte {
-  color: aqua;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=10);
-  opacity: 0.1;
-}
-
 .fond {
   background-image: url(/img/RR.jpg);
+}
+
+.background {
+  background-color: #959595;
+  height: 1000px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.background texte {
+  color: black;
 }

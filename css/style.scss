@@ -19,16 +19,22 @@ margin-bottom: 5px;
 	 opacity: 1.0;
 }
 
-.texte {
-     color: aqua;
-    @include opacity(0.1);
-    
-    
-}
+
 
 .fond{
  background-image:url(/img/RR.jpg);   
 }
-
-
+    
+.background{
+    background-color: #959595;
+    height: 1000px;
+    margin-left: 150px;
+    margin-right: 150px;
+        texte{
+            color: black;
+    }
+}
+    
+    
+    
      
