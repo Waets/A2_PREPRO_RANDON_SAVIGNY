@@ -32,7 +32,10 @@ include"header.php"
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </section>
 <section class="ouioui">
-	ça doit être en rouge 
+	ça doit être en <strong>rouge</strong> 
+</section>
+<section class="nonnon">
+	ça doit être en <strong>bleu</strong> 
 </section>
 
 <h1>OUI</h1>
