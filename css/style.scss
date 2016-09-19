@@ -1,5 +1,5 @@
-.col-md-2 {
 
+.col-md-3 {
 	background-color:#E6E6E6;
 	height: 1000px;
 	padding: 0;
@@ -9,5 +9,26 @@
 @import "compass/css3";
 
 
+#oui{
+		position: absolute;
+margin-bottom: 5px;
+	right: 50%;
+	opacity: 0.5;
+}
+#oui:hover{
+	 opacity: 1.0;
+}
+
+.texte {
+     color: aqua;
+    @include opacity(0.1);
+    
+    
+}
+
+.fond{
+ background-image:url(/img/RR.jpg);   
+}
 
 
+     
