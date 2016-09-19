@@ -12,4 +12,10 @@
 
 .texte {
   color: aqua;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=10);
+  opacity: 0.1;
+}
+
+.fond {
+  background-image: url(/img/RR.jpg);
 }

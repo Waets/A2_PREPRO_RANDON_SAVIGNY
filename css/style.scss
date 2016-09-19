@@ -1,3 +1,4 @@
+@import "compass/css3";
 .ouioui {	
 	color: red !important;
 }
@@ -11,6 +12,15 @@
 }
 
 .texte {
-     color: aqua;   
+     color: aqua;
+    @include opacity(0.1);
+    
+    
 }
 
+.fond{
+ background-image:url(/img/RR.jpg);   
+}
+
+
+     
