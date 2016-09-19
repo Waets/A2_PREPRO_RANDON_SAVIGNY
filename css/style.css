@@ -1,0 +1,11 @@
+#login {
+  margin: 20px;
+}
+
+#login nav button {
+  color: red;
+}
+
+#login input {
+  color: blue;
+}
