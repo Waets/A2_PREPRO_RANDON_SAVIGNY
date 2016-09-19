@@ -47,22 +47,12 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="dashboard.php">Dashboard</a>
-
-
                     </li>
                     </ul>
-                    <ul class=" nav navbar-nav navbar-right">
-
-                  
+                    <ul class="nav navbar-nav navbar-right">                  
                     <li>
                         <a href="logout.php">Un autre truc de luxe</a>
-                    </li>
-
-                   
-            
-                 
-                
+                    </li>   
                     <li>
                         <a href="signin.php">Voitures de luxe</a>
                     </li>
