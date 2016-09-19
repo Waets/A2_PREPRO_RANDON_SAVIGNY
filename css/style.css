@@ -1,3 +1,13 @@
+.background {
+  background-color: #959595;
+  height: 1000px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.background texte {
+  color: black;
+}
+
 .ouioui {
   color: red !important;
 }
@@ -12,14 +22,4 @@
 
 .fond {
   background-image: url(/img/RR.jpg);
-}
-
-.background {
-  background-color: #959595;
-  height: 1000px;
-  margin-left: 150px;
-  margin-right: 150px;
-}
-.background texte {
-  color: black;
 }
