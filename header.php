@@ -32,6 +32,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
+        <center><a href="index.php"><img src="img/logo.jpg" id="oui" width="60"></a></center>
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -45,18 +46,16 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li>
-                    </li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">                  
                     <li>
                         <a href="rollsroyce.php">Rolls Royce</a>
                     </li>   
                     <li>
-                        <a href="montre.php">Montres</a>
+                        <a href="modeles.php">Modèles</a>
                     </li>
                     <li>
-                        <a href="histoire.php">Historique</a>
+                        <a href="histoire.php">Histoire</a>
                     </li>
 
 
@@ -68,3 +67,7 @@
         </div>
         <!-- /.container -->
     </nav>
+
+    <li>
+                    
+    </li>
