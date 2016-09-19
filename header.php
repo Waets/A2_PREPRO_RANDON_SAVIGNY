@@ -56,7 +56,7 @@
                         <a href="montre.php">Montres</a>
                     </li>
                     <li>
-                        <a href=".php">Montres de luxe</a>
+                        <a href="histoire.php">Historique</a>
                     </li>
 
 
