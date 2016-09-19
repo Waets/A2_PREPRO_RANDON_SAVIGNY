@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <title>Luxuary</title>
 
     <!-- Bootstrap Core CSS -->
@@ -41,7 +40,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Rolls Royce</a>
+                <a class="navbar-brand" href="index.php">Home</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -51,13 +50,13 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">                  
                     <li>
-                        <a href="logout.php">Un autre truc de luxe</a>
+                        <a href="rollsroyce.php">Rolls Royce</a>
                     </li>   
                     <li>
-                        <a href="signin.php">Voitures de luxe</a>
+                        <a href=".php">Voitures de luxe</a>
                     </li>
                     <li>
-                        <a href="login.php">Montres de luxe</a>
+                        <a href=".php">Montres de luxe</a>
                     </li>
 
 
