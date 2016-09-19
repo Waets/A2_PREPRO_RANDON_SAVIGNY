@@ -34,3 +34,7 @@ include"header.php"
 <section class="ouioui">
 	ça doit être en rouge 
 </section>
+
+<h1>OUI</h1>
+
+<h2>NON</h2>
