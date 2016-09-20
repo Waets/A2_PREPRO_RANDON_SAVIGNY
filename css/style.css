@@ -1,37 +1,46 @@
-/*
-Error: Invalid CSS after "... "compass/css3"": expected "{", was ";"
-        on line 2 of style.scss
+.background {
+  background-color: #959595;
+  height: 1000px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.background texte {
+  color: black;
+}
 
-1: <<<<<<< HEAD
-2: @import "compass/css3";
-3: @import "histoire.scss";
-4: .ouioui {	
-5: 	color: red !important;
-6: }
-7: =======
+.ouioui {
+  color: red !important;
+}
 
-Backtrace:
-style.scss:2
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:1179:in `expected'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:1115:in `expected'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:1110:in `tok!'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:655:in `block'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:649:in `ruleset'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:674:in `block_child'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:664:in `block_contents'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:126:in `stylesheet'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:42:in `parse'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/engine.rb:403:in `_to_tree'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/engine.rb:278:in `render'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/sass_scss.rb:420:in `run'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/sass_scss.rb:63:in `process_result'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/base.rb:52:in `parse'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/base.rb:19:in `parse!'
-C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/bin/sass:13:in `<top (required)>'
-C:/logiciel/Prepros/resources/app/ruby/loader.rb:15:in `load'
-C:/logiciel/Prepros/resources/app/ruby/loader.rb:15:in `<main>'
-*/
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Error: Invalid CSS after \"... \"compass/css3\"\": expected \"{\", was \";\"\A         on line 2 of style.scss\A \A 1: <<<<<<< HEAD\A 2: @import \"compass/css3\";\A 3: @import \"histoire.scss\";\A 4: .ouioui {	\A 5: 	color: red !important;\A 6: }\A 7: ======="; }
+#oui {
+  position: absolute;
+  margin-bottom: 5px;
+  right: 50%;
+  opacity: 0.7;
+}
+
+#oui:hover {
+  opacity: 1.0;
+}
+
+.fond {
+  background-image: url(/img/RR.jpg);
+}
+
+.background {
+  background-color: #959595;
+  height: 1000px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.background texte {
+  color: black;
+}
+
+.col-md-3 {
+  position: fixed;
+}
+
+.col-xs-12 {
+  padding-left: 25%;
+}
