@@ -27,6 +27,7 @@ margin-bottom: 5px;
  background-image:url(/img/RR.jpg);   
 }
 
+
 .background{
     background-color: #959595;
     height: 400px;
@@ -36,6 +37,7 @@ margin-bottom: 5px;
             color: black;
     }
 }
+
 
 .col-md-3{
 	 position: fixed;
@@ -50,20 +52,58 @@ margin-bottom: 5px;
 
     top: 100px;
     }
+     
 .textesurimage{
-    background:url(../img/threelines.png) no-repeat;
-    display: none;
-}     
-.textesurimage:active{
-    position:absolute;
+    position: absolute;
     left: 18px;
-    top: 20px;
-    left: 35px;
+    top: 0px;
+
     width: 400px;
     color: #585858;
     font-family: De Luxe;
     font-size: 20px;
     background-color: #F2F2F2;
-    border:10px dashed grey;
+    border:10px inset   grey;
 
     }
+#imagemodele2{
+    padding-top: 50%;
+
+}
+
+.textesurimage2{
+    position: absolute;
+    left: 495px;
+    top: 900px;
+        width: 400px;
+    color: #585858;
+    font-family: De Luxe;
+    font-size: 20px;
+    background-color: #F2F2F2;
+    border:10px outset  grey;
+
+}
+.textesurimage3{
+    position: absolute;
+    left: 1350px;
+    top: 1550px;
+        width: 400px;
+    color: #585858;
+    font-family: De Luxe;
+    font-size: 20px;
+    background-color: #F2F2F2;
+    border:10px outset  grey;
+
+}
+.textesurimage4{
+    position: absolute;
+    left: 495px;
+    top: 2700px;
+        width: 400px;
+    color: #585858;
+    font-family: De Luxe;
+    font-size: 20px;
+    background-color: #F2F2F2;
+    border:10px outset  grey;
+
+}

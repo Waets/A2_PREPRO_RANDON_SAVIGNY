@@ -32,7 +32,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
-        <center><a href="index.php"><img src="img/logo.jpg" id="oui" width="60"></a></center>
+        <center><a href="index.php"><img src="img/rollslogo.png" id="oui" width="60"></a></center>
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -52,18 +52,13 @@
                         <a href="rollsroyce.php">Rolls Royce</a>
                     </li>   
                     <li>
-                        <a href="modeles.php">Modèles</a>
+                        <a href="modeles.php">Models</a>
                     </li>
                     <li>
-                        <a href="histoire.php">Histoire</a>
-                    </li>
-
-
-                
+                        <a href="histoire.php">Story</a>
+                    </li>         
                 </ul>
-            </div>
-
-            <!-- /.navbar-collapse -->
+            </div>          <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
     </nav>

@@ -1,17 +1,22 @@
 .background {
   background-color: #959595;
-  height: 200px;
+  height: 600px;
   margin-left: 150px;
   margin-right: 150px;
 }
-.background texte {
-  background-image: url(img/history1.jpg.);
+.background .texte {
+  text-align: left;
   border-radius: 8px;
   color: black;
+  font-family: "De luxe";
+}
+.background .texte #img {
+  float: right;
+  margin: 50px;
 }
 
 .background1 {
-  background-color: #959595;
+  background-color: blue;
   height: 500px;
   margin-left: 150px;
   margin-right: 150px;
@@ -60,19 +65,53 @@
 }
 
 .textesurimage {
-  background: url(../img/threelines.png) no-repeat;
-  display: none;
-}
-
-.textesurimage:active {
   position: absolute;
   left: 18px;
-  top: 20px;
-  left: 35px;
+  top: 0px;
   width: 400px;
   color: #585858;
   font-family: De Luxe;
   font-size: 20px;
   background-color: #F2F2F2;
-  border: 10px dashed grey;
+  border: 10px inset   grey;
+}
+
+#imagemodele2 {
+  padding-top: 50%;
+}
+
+.textesurimage2 {
+  position: absolute;
+  left: 495px;
+  top: 900px;
+  width: 400px;
+  color: #585858;
+  font-family: De Luxe;
+  font-size: 20px;
+  background-color: #F2F2F2;
+  border: 10px outset  grey;
+}
+
+.textesurimage3 {
+  position: absolute;
+  left: 1350px;
+  top: 1550px;
+  width: 400px;
+  color: #585858;
+  font-family: De Luxe;
+  font-size: 20px;
+  background-color: #F2F2F2;
+  border: 10px outset  grey;
+}
+
+.textesurimage4 {
+  position: absolute;
+  left: 495px;
+  top: 2700px;
+  width: 400px;
+  color: #585858;
+  font-family: De Luxe;
+  font-size: 20px;
+  background-color: #F2F2F2;
+  border: 10px outset  grey;
 }
