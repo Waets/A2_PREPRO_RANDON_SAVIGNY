@@ -17,3 +17,15 @@ include"header.php";
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque sed ad cupiditate ea sint, reprehenderit veniam soluta, maxime cum dolore. Ullam rem sunt, repudiandae eos, atque dolorum obcaecati quibusdam corporis.
         </section>
     </section>
+    
+    <section class="background1"> 
+            <section class="texte">
+      		Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aliquid, recusandae sint culpa aspernatur dolor asperiores, nihil debitis blanditiis, eos magni fugit harum at! Velit, esse consectetur ut sequi quis!
+           	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus expedita inventore sit aut incidunt, tempora ab sunt sapiente veniam ipsum corporis quas, natus! Eum tenetur, veniam alias laboriosam, libero repellat!
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non modi, sit vero cumque, in iure culpa dolorem. Itaque illum debitis commodi assumenda nemo, sit minima dolorem, nulla eius perspiciatis, ipsum.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis et eveniet ullam cupiditate laboriosam sed illum vel reprehenderit voluptatibus qui vitae deserunt, hic quos dolor. Expedita sequi dolor, inventore commodi.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit provident minus sed sit, non dicta aspernatur quod at earum tempore necessitatibus repellendus modi praesentium ipsam, harum aliquam, alias veniam quam!
+            
+            
+            </section>
+    </section>
