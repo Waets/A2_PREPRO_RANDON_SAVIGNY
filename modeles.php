@@ -28,7 +28,7 @@ When it came to designing the current Phantom Family, it’s fitting that the in
 Phantom is a timeless interpretation of the modern luxury motor car. With its powerful stance, iconic proportions and state-of-the-art technology, it’s the signature Rolls-Royce. The engine delivers an abundance of effortless power – a magic carpet-like ride – that creates a driving experience like no other. But the pleasure begins even before you own a Phantom, as you can choose the personal features to make your motor car truly unique. This is a motor car to be commissioned, to represent your personal expression.
 	</h2>
 	</div>
-<br><br><br><br><br><br>	
+<br><br>	
 
 <div id="imagemodele2"><img src="img/ghostsalon.jpg" alt="Smiley face" width="1300" height="700">
 <h2 class="textesurimage2"><strong><center><a id="two">Ghost :</a></center></strong><br>
