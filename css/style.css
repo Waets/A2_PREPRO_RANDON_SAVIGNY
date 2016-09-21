@@ -15,11 +15,28 @@
   margin: 50px;
 }
 
-.background1 {
-  background-color: blue;
+.first .background1 {
+  background-color: #4c4c4c;
   height: 500px;
   margin-left: 150px;
   margin-right: 150px;
+}
+.first .background1 .texte1 {
+  text-align: left;
+  border-radius: 8px;
+  color: black;
+  font-family: "De luxe";
+}
+.first .background1 .texte1 #img1 {
+  position: absolute;
+  right: 40%;
+  left: 40%;
+}
+.first .background1 .texte1 #img2 {
+  position: absolute;
+  top: 1px;
+  right: 55%;
+  left: 55%;
 }
 
 .ouioui {
