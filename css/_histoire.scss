@@ -1,17 +1,23 @@
 .background{
     background-color: #959595;
-    height: 200px;
+    height: 600px;
     margin-left: 150px;
     margin-right: 150px;
-        texte{
-            background-image:url(img/history1.jpg.);
+        .texte{
+            text-align: left; 
             border-radius: 8px;
             color: black;
+		#img{
+			float: right;
+			margin: 50px;
+			
+		}
+		
     }
 }
 
 .background1{
-	background-color: #959595;
+	background-color: blue;
     height: 500px;
     margin-left: 150px;
     margin-right: 150px;

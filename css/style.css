@@ -1,17 +1,21 @@
 .background {
   background-color: #959595;
-  height: 200px;
+  height: 600px;
   margin-left: 150px;
   margin-right: 150px;
 }
-.background texte {
-  background-image: url(img/history1.jpg.);
+.background .texte {
+  text-align: left;
   border-radius: 8px;
   color: black;
 }
+.background .texte #img {
+  float: right;
+  margin: 50px;
+}
 
 .background1 {
-  background-color: #959595;
+  background-color: blue;
   height: 500px;
   margin-left: 150px;
   margin-right: 150px;
@@ -34,16 +38,6 @@
 
 .fond {
   background-image: url(/img/RR.jpg);
-}
-
-.background {
-  background-color: #959595;
-  height: 1000px;
-  margin-left: 150px;
-  margin-right: 150px;
-}
-.background texte {
-  color: black;
 }
 
 .col-md-3 {
