@@ -1,20 +1,23 @@
+$police:"De luxe";
 .background{
     background-color: #959595;
     height: 600px;
     margin-left: 150px;
     margin-right: 150px;
+	
         .texte{
             text-align: left; 
             border-radius: 8px;
             color: black;
-		#img{
-			float: right;
-			margin: 50px;
+			font-family:$police;
 			
-		}
-		
-    }
-}
+			 #img{
+				float: right;
+				margin: 50px;
+				;
+				 } 
+    			}
+			}
 
 .background1{
 	background-color: blue;

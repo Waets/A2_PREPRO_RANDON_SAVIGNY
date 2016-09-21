@@ -8,8 +8,7 @@ include"header.php";
        <div id="img">
 <img src="img/history1.jpg" />
 			</div>
-       <FONT face="De Luxe">  
-       <br><br>
+       <br><br>	
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel eligendi nobis enim ipsa amet architecto suscipit distinctio, qui maiores quod odit, tempore obcaecati natus dignissimos. Aspernatur modi iusto provident quo.
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quidem veritatis impedit excepturi soluta accusantium tenetur odio consequatur laboriosam ex voluptatibus, alias repudiandae. Quam dolorem, quod saepe optio dolore atque!
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. A enim deleniti neque! Incidunt magnam voluptas voluptates saepe adipisci fuga perspiciatis ipsam eos quos quasi eaque eum, reiciendis ad voluptatem tempora.
@@ -29,7 +28,7 @@ include"header.php";
         </section>
         
     </section>
-    
+    <br>
     <section class="background1"> 
             <section class="texte">
       		Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aliquid, recusandae sint culpa aspernatur dolor asperiores, nihil debitis blanditiis, eos magni fugit harum at! Velit, esse consectetur ut sequi quis!
