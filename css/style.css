@@ -1,134 +1,55 @@
-.background {
-  background-color: #959595;
-  height: 600px;
-  margin-left: 150px;
-  margin-right: 150px;
-}
-.background .texte {
-  text-align: left;
-  border-radius: 8px;
-  color: black;
-  font-family: "De luxe";
-}
-.background .texte #img {
-  float: right;
-  margin: 50px;
-}
+/*
+Error: Invalid CSS after "": expected selector, was "<<<<<<< HEAD"
+        on line 31 of style.scss
 
-.first .background1 {
-  background-color: #4c4c4c;
-  height: 500px;
-  margin-left: 150px;
-  margin-right: 150px;
-}
-.first .background1 .texte1 {
-  text-align: left;
-  border-radius: 8px;
-  color: black;
-  font-family: "De luxe";
-}
-.first .background1 .texte1 #img1 {
-  position: absolute;
-  right: 40%;
-  left: 40%;
-}
-.first .background1 .texte1 #img2 {
-  position: absolute;
-  top: 1px;
-  right: 55%;
-  left: 55%;
-}
+26: .fond{
+27:  background-image:url(/img/RR.jpg);   
+28: }
+29: 
+30: 
+31: <<<<<<< HEAD
+32: .background{
+33:     background-color: #959595;
+34:     height: 400px;
+35:     margin-left: 150px;
+36:     margin-right: 150px;
 
-.ouioui {
-  color: red !important;
-}
-
-#oui {
-  position: absolute;
-  margin-bottom: 5px;
-  right: 50%;
-  opacity: 0.7;
-}
-
-#oui:hover {
-  opacity: 1.0;
-}
-
-.fond {
-  background-image: url(/img/RR.jpg);
-}
-
-.background {
-  background-color: #959595;
-  height: 400px;
-  margin-left: 150px;
-  margin-right: 150px;
-}
-.background texte {
-  color: black;
-}
-
-.col-md-3 {
-  position: fixed;
-}
-
-.col-xs-12 {
-  padding-left: 25%;
-}
-
-#imagemodele {
-  position: absolute;
-  top: 100px;
-}
-
-.textesurimage {
-  position: absolute;
-  left: 18px;
-  top: 0px;
-  width: 400px;
-  color: #585858;
-  font-family: De Luxe;
-  font-size: 20px;
-  background-color: #F2F2F2;
-  border: 10px inset   grey;
-}
-
-#imagemodele2 {
-  padding-top: 50%;
-}
-
-.textesurimage2 {
-  position: absolute;
-  left: 495px;
-  top: 900px;
-  width: 400px;
-  color: #585858;
-  font-family: De Luxe;
-  font-size: 20px;
-  background-color: #F2F2F2;
-  border: 10px outset  grey;
-}
-
-.textesurimage3 {
-  position: absolute;
-  left: 1350px;
-  top: 1550px;
-  width: 400px;
-  color: #585858;
-  font-family: De Luxe;
-  font-size: 20px;
-  background-color: #F2F2F2;
-  border: 10px outset  grey;
-}
-
-.textesurimage4 {
-  position: absolute;
-  left: 495px;
-  top: 2700px;
-  width: 400px;
-  color: #585858;
-  font-family: De Luxe;
-  font-size: 20px;
-  background-color: #F2F2F2;
-  border: 10px outset  grey;
-}
+Backtrace:
+style.scss:31
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:1179:in `expected'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:1115:in `expected'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/parser.rb:1095:in `expr!'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/scss/static_parser.rb:20:in `parse_selector'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:425:in `visit_rule'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/stack.rb:79:in `block in with_base'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/stack.rb:115:in `with_frame'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/stack.rb:79:in `with_base'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:158:in `visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/base.rb:52:in `map'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:157:in `visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/visitors/perform.rb:8:in `visit'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/root_node.rb:36:in `css_tree'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/tree/root_node.rb:20:in `render'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/engine.rb:278:in `render'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/sass_scss.rb:420:in `run'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/sass_scss.rb:63:in `process_result'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/base.rb:52:in `parse'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/lib/sass/exec/base.rb:19:in `parse!'
+C:/logiciel/Prepros/resources/app/ruby/ruby_gems/gems/sass-3.4.20/bin/sass:13:in `<top (required)>'
+C:/logiciel/Prepros/resources/app/ruby/loader.rb:15:in `load'
+C:/logiciel/Prepros/resources/app/ruby/loader.rb:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"\": expected selector, was \"<<<<<<< HEAD\"\A         on line 31 of style.scss\A \A 26: .fond{\A 27:  background-image:url(/img/RR.jpg);   \A 28: }\A 29: \A 30: \A 31: <<<<<<< HEAD\A 32: .background{\A 33:     background-color: #959595;\A 34:     height: 400px;\A 35:     margin-left: 150px;\A 36:     margin-right: 150px;"; }

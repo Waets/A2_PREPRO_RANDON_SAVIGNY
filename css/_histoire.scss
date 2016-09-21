@@ -1,4 +1,5 @@
 $police:"De luxe";
+
 .background {
 	background-color: #959595;
 	height: 600px;
@@ -30,26 +31,33 @@ $police:"De luxe";
 			border-radius: 8px;
 			color: black;
 			font-family: $police;
-			#img1 {
-				
-				position: absolute;
-				right: 40%;
-				left: 40%;
-				
-				
-
-			}
-			#img2 {
-				
-				position: absolute;
-				top: 1px;
-				right: 55%;
-				left: 55%;
-				
-				
-			
-			
-			}
 		}
-	}
+		}
+}
+			#txt{
+	float: left;
+	width: 25%;
+	height: 200px;
+	background-color: red;
+}
+
+#prout {
+	float: left;
+	width: 25%;
+	height: 200px;
+	background-color: black;
+}
+
+#bla {
+	float: left;
+	width: 25%;
+	height: 200px;
+	background-color: green;
+}
+
+#blabla {
+	float: right;
+	width: 25%;
+	height: 200px;
+	background-color: blue;
 }
