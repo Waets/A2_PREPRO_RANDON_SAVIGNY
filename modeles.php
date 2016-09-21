@@ -30,7 +30,7 @@ include "header.php";
 
         <div class="col-md-9 col-md-offset-3">
             <div class="single-car">
-                <img src="img/phantomsalon.jpg" alt="Smiley face" width="1300" height="700">
+                <img src="img/phantomsalon.jpg" alt="Smiley face" width="100%" height="700">
                 <div class="overlay">
                     <h2>Phantom</h2>
                     <p>
@@ -72,7 +72,7 @@ include "header.php";
         </div>
            <div class="col-md-9 col-md-offset-3">
             <div class="single-car">
-                <img src="img/phantomsalon.jpg" alt="Smiley face" width="1300" height="700">
+                <img src="img/phantomsalon.jpg" alt="Smiley face" width="100%" height="700">
                 <div class="overlay">
                     <h2>Phantom</h2>
                     <p>
