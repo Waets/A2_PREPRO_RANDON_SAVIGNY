@@ -1,0 +1,58 @@
+@import "bootstrap.scss";
+@import "compass/css3";
+@import "histoire.scss";
+
+img{
+  max-width:100%;
+}
+
+.no-padding{
+  padding:0;
+}
+
+.cars-menu{
+  text-align: center;
+  position: fixed;
+  a{
+    display: block;
+    padding-bottom:30px;
+    border-bottom:1px solid #000000;
+    span{
+      display: block;
+    }
+  }
+}
+
+
+.single-car{
+  .overlay {
+    text-align: center;
+    padding:20px;
+    position: absolute;
+    margin-top: -300px;
+    background: rgba(0,0,0,0.4);
+    p, h2{
+      color:#FFF;
+    }
+  }
+}
+
+@import "compass/css3";
+
+.logo {
+  position: absolute;
+  margin-bottom: 5px;
+  right: 50%;
+  opacity: 0.7;
+}
+
+
+
+.textesurimage {
+  width: 400px;
+  color: #585858;
+  font-family: De Luxe;
+  font-size: 20px;
+  background-color: #F2F2F2;
+  border: 10px inset grey;
+}
