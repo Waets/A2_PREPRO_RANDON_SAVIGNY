@@ -1,29 +1,55 @@
 $police:"De luxe";
-.background{
-    background-color: #959595;
-    height: 600px;
-    margin-left: 150px;
-    margin-right: 150px;
-	
-        .texte{
-            text-align: left; 
-            border-radius: 8px;
-            color: black;
-			font-family:$police;
-			
-			 #img{
-				float: right;
-				margin: 50px;
-				;
-				 } 
-    			}
-			}
+.background {
+	background-color: #959595;
+	height: 600px;
+	margin-left: 150px;
+	margin-right: 150px;
+	.texte {
+		text-align: left;
+		border-radius: 8px;
+		color: black;
+		font-family: $police;
+		#img {
+			float: right;
+			margin: 50px;
+			;
+		}
+	}
+}
 
-.background1{
-	background-color: blue;
-    height: 500px;
-    margin-left: 150px;
-    margin-right: 150px;
-	
-	
+.first{
+    
+
+	.background1 {
+		background-color: #4c4c4c;
+		height: 500px;
+		margin-left: 150px;
+		margin-right: 150px;
+		.texte1 {
+			text-align: left;
+			border-radius: 8px;
+			color: black;
+			font-family: $police;
+			#img1 {
+				
+				position: absolute;
+				right: 40%;
+				left: 40%;
+				
+				
+
+			}
+			#img2 {
+				
+				position: absolute;
+				top: 1px;
+				right: 55%;
+				left: 55%;
+				
+				
+			
+			
+			}
+		}
+	}
 }
