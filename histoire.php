@@ -12,8 +12,8 @@ include"header.php";
 			<div id="img">
 				<img src="img/history1.jpg" />
 			</div>
-			<br>
-			<br><h3>Les débuts
+			
+			<h3>Les débuts
 Rolls-Royce Limited a été créée lors d'un déjeuner célèbre en mai 1904. Henry Royce, un ingénieur confirmé, a passé un accord avec Charles Rolls, propriétaire de l'une des premières concessions automobiles. Le reste fait partie de l'histoire. Les séries suivantes de véhicules à deux, trois, quatre et six cylindres ont brisé le moule de l'ingénierie et du savoir-faire. La Silver Ghost, lancée en 1907, était une voiture d'une douceur légendaire, qui a réalisé un trajet pratiquement ininterrompu de 23 000 km, devenant « la meilleure voiture au monde ».</h3>
 
 
