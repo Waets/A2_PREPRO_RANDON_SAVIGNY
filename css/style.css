@@ -8340,3 +8340,7 @@ img {
   border-radius: 3px;
   font-size: 20px;
 }
+
+.col-md-3 {
+  background: rgba(195, 195, 195, 0.2);
+}
