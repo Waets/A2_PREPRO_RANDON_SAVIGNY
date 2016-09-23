@@ -8163,10 +8163,6 @@ button.close {
   padding: 0;
 }
 
-body {
-  background: #ebe7df;
-}
-
 .slider {
   width: 640px;
   position: relative;
@@ -8266,7 +8262,12 @@ img {
   transform: translate3d(0, 0, 0);
   height: 100vh;
 }
-
+.hero h1 {
+  font-size: 50px;
+  font-weight: 100;
+  color: white;
+  margin: 0;
+}
 .hero:before {
   content: "";
   position: absolute;
@@ -8279,6 +8280,8 @@ img {
 .hero__content {
   z-index: 101;
   position: relative;
+  padding: 200px 100px;
+  max-width: 310px;
 }
 
 @-webkit-keyframes slide {
@@ -8292,18 +8295,6 @@ img {
     background-position: left;
   }
 }
-.hero h1 {
-  font-size: 50px;
-  font-weight: 100;
-  color: white;
-  margin: 0;
-}
-
-.hero__content {
-  padding: 200px 100px;
-  max-width: 310px;
-}
-
 .btn {
   background: #4C384B;
   color: white;
