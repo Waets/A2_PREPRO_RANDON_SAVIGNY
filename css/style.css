@@ -8157,12 +8157,20 @@ button.close {
   height: 400px;
   background-color: #959595;
 }
+#block-history img {
+  padding-top: 70px;
+}
 
 #titre {
   text-align: center;
   color: white;
   font-family: "De luxe";
   margin-top: 100px;
+}
+
+h3 {
+  padding-left: 40px;
+  color: white;
 }
 
 /*Time for the CSS*/

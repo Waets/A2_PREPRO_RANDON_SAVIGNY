@@ -46,6 +46,9 @@ $police:"De luxe";
 	width: 25%;
 	height: 400px;
 	background-color: #959595;
+	img{
+		padding-top: 70px;
+	}
 	
 }
 
@@ -55,6 +58,11 @@ $police:"De luxe";
 	color: white;
 	font-family: $police;
 	margin-top: 100px;}
+
+h3 {
+	padding-left: 40px;
+	color: white;
+}
 
 
 
