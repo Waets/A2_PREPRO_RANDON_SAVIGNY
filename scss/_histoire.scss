@@ -1,12 +1,12 @@
 $police:"De luxe";
 @mixin block-history($width,$color,$height){
 	width: $width;
-	height: $color;
-	background-color: $height;
+	height: $height;
+	background-color: $color;
 }
 	
 .background {
-	background-color: #959595;
+	background-color: #696969;
 	height: 600px;
 	margin-left: 150px;
 	margin-right: 150px;
@@ -27,7 +27,7 @@ $police:"De luxe";
 .first{
     
 .background1 {
-		background-color: #4c4c4c;
+		background-color: #696969;
 		height: 500px;
 		margin-left: 150px;
 		margin-right: 140px;
@@ -45,7 +45,7 @@ $police:"De luxe";
 	float: left;
 	width: 25%;
 	height: 400px;
-	background-color: #959595;
+	background-color: #696969;
 	font-family: $police;
 	img{
 		padding-top: 70px;
