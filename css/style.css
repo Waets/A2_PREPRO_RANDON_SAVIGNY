@@ -8160,6 +8160,7 @@ button.close {
 }
 #block-history img {
   padding-top: 70px;
+  border-radius: 10px 10px 10px;
 }
 
 #titre {
@@ -8226,6 +8227,8 @@ h3 {
 
 body {
   background-image: url(../img/bgbody.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 img {
