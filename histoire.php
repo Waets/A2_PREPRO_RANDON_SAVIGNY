@@ -23,7 +23,7 @@ Rolls-Royce Limited a été créée lors d'un déjeuner célèbre en mai 1904. H
 	</section>
 	<div id="titre">
 		<p>
-			<h1>Fondator</h1></p>
+			<h1>Fondators</h1></p>
 
 	</div>
 
@@ -42,3 +42,4 @@ Connu pour son attention aux détails et sa recherche de la perfection, Henry Ro
 Mécontent de sa Decauville, Royce a décidé de l'améliorer et a porté son attention sur la fabrication des meilleures voitures du monde. En 1903, il avait conçu et fabriqué son premier moteur. Ses premiers prototypes ont pris la route en 1904.</h3></div>
 
 	</div>
+
