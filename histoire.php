@@ -21,6 +21,9 @@ Rolls-Royce Limited a été créée lors d'un déjeuner célèbre en mai 1904. H
 
 		</section>
 	</section>
+	<hr class="hrseparation" color="grey" align=center>
+
+
 	<div id="titre">
 		<p>
 			<h1>Fondators</h1></p>
