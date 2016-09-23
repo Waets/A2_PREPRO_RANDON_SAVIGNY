@@ -33,7 +33,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <a href="index.php">
-            <img src="img/rollslogo.png" class="logo" width="60">
+            <img src="img/rollslogo.png" class="logo" width="60" alt="logorolls">
         </a>
 
         <!-- Brand and toggle get grouped for better mobile display -->
