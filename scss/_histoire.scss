@@ -1,5 +1,15 @@
 $police:"De luxe";
-
+@mixin block-history($width,$color,$height){
+	width: $width;
+	height: $color;
+	background-color: $height;
+}
+	
+	
+	
+	
+	
+	
 .background {
 	background-color: #959595;
 	height: 600px;
@@ -14,50 +24,33 @@ $police:"De luxe";
 			float: right;
 			margin: 50px;
 			;
-		}
+		}	
 	}
 }
-
+	
 .first{
     
-
-	.background1 {
+.background1 {
 		background-color: #4c4c4c;
 		height: 500px;
 		margin-left: 150px;
-		margin-right: 150px;
-		.texte1 {
-			text-align: left;
-			border-radius: 8px;
-			color: black;
-			font-family: $police;
+		margin-right: 140px;
+	
+	.texte1 {
+		text-align: left;
+		border-radius: 25px;
+		color: black;
+		font-family: $police	;
+			}
 		}
-		}
 }
-			#txt{
+#block-history{
+	margin-top: 15 px
 	float: left;
 	width: 25%;
-	height: 200px;
-	background-color: red;
+	height: 400px;
+	background-color: #959595;
+	
 }
 
-#prout {
-	float: left;
-	width: 25%;
-	height: 200px;
-	background-color: black;
-}
 
-#bla {
-	float: left;
-	width: 25%;
-	height: 200px;
-	background-color: green;
-}
-
-#blabla {
-	float: right;
-	width: 25%;
-	height: 200px;
-	background-color: blue;
-}

@@ -16,9 +16,21 @@ include"header.php";
 
 	</section>
 	<br>
-	<div id="txt">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit voluptas quo dignissimos ad natus beatae dolore est enim asperiores modi iure, maxime a, doloremque mollitia rem et quidem necessitatibus expedita.</div>
-	<div id="prout"><img src="img/fondateur1.jpg" alt=""></div>
-	<div id="bla"><img src="img/fondateur2.jpg" alt=""></div>
-	<div id="blabla">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ratione fugit possimus quas libero, odio harum, in rerum nam corporis nobis laudantium reprehenderit. Nemo amet quae, magni sapiente esse deserunt.</div>
+	<div id="block-history">
+		
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel numquam minima sapiente incidunt magnam laborum maxime aut, quia eius reprehenderit sint odit itaque impedit! Rem vel nisi maiores blanditiis deserunt!
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore itaque impedit maxime incidunt vero ut repudiandae laboriosam quasi nesciunt, commodi excepturi ipsa facere voluptate optio, suscipit porro illo placeat nemo!
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa adipisci possimus aliquam, dicta natus necessitatibus atque! Cumque itaque assumenda excepturi voluptates quidem repellat consequuntur modi illo? Cupiditate vel voluptates delectus!
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam commodi sunt, dignissimos, quo libero minus deserunt praesentium architecto officia iste, dolore? Nihil dolor explicabo facere unde alias quasi iusto, asperiores!Lorem ipsum dololoremr sit amet, consectetur adipisicing elit.
+	 Odit voluptas quo dignissimos ad natus beatae dolore est enim asperiores modi iure, maxime a, doloremque mollitia rem et quidem necessitatibus expedita.</div>
+	<div id="block-history"><img src="img/fondateur1.jpg" alt="" style=margin-left:150px></div>
+	<div id="block-history"><img src="img/fondateur2.jpg" alt="" alt="" style=margin-right:150px></div>
+	<div id="block-history">	
+	lorem
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere perferendis dolorem consectetur obcaecati doloremque maiores quibusdam, alias fuga adipisci, necessitatibus soluta maxime, fugit voluptas eaque accusamus labore magnam, assumenda ipsum!
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, inventore! Perspiciatis suscipit nam id omnis consequatur, quibusdam, itaque dolorem iusto a numquam, vero harum voluptatibus accusantium fugit illum. Facilis, veritatis!
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, quisquam. Officiis itaque, ducimus cum reprehenderit illo voluptatum! Nemo earum quae beatae totam asperiores doloribus possimus fugiat esse quaerat dignissimos? Numquam.
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, laudantium, ipsam. Dolore pariatur architecto neque quasi libero, aspernatur numquam, magni sequi esse necessitatibus expedita, velit laudantium illo. Possimus, iure consequatur!
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et ratione fugit possimus quas libero, odio harum, in rerum nam corporis nobis laudantium reprehenderit. Nemo amet quae, magni sapiente esse deserunt.</div>
 
 	</div>
