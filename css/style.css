@@ -8120,7 +8120,7 @@ button.close {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 .background {
-  background-color: #959595;
+  background-color: #696969;
   height: 600px;
   margin-left: 150px;
   margin-right: 150px;
@@ -8138,7 +8138,7 @@ button.close {
 }
 
 .first .background1 {
-  background-color: #4c4c4c;
+  background-color: #696969;
   height: 500px;
   margin-left: 150px;
   margin-right: 140px;
@@ -8155,7 +8155,7 @@ button.close {
   float: left;
   width: 25%;
   height: 400px;
-  background-color: #959595;
+  background-color: #696969;
   font-family: "De luxe";
 }
 #block-history img {
