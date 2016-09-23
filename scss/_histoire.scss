@@ -6,7 +6,8 @@ $police:"De luxe";
 }
 	
 .background {
-	background-color: #696969;
+	background-color: rgba(195, 195, 195, 0.2);
+
 	height: 600px;
 	margin-left: 150px;
 	margin-right: 150px;
@@ -44,17 +45,25 @@ $police:"De luxe";
 	margin-top: 10 px;
 	float: left;
 	width: 25%;
-	height: 400px;
-	background-color: #696969;
+	height: 380px;
+	background-color: rgba(195, 195, 195, 0.2);
 	font-family: $police;
 	img{
 		padding-top: 70px;
+		border-radius: 10px 10px 10px;
 	}
 	
 }
 
 
 #titre{
+	text-align: center;
+	color: white;
+	font-family: $police;
+	margin-top: 100px;}
+
+#titre2{
+		padding-bottom: 1000px;
 	text-align: center;
 	color: white;
 	font-family: $police;
