@@ -10,7 +10,7 @@ include"header.php";
 
 			</div>
 			<div id="img">
-				<img src="img/history1.jpg" />
+				<img src="img/history1.jpg" alt="Ancienne RollsRoyce" />
 			</div>
 			<br>
 			<br><h3>Les débuts
@@ -30,11 +30,11 @@ Rolls-Royce Limited a été créée lors d'un déjeuner célèbre en mai 1904. H
 	<div id="block-history">
 
 		<h3>Charles Rolls
-Charles Rolls a étudié l'ingénierie mécanique à Cambridge. Le premier étudiant à posséder un véhicule, il a rapidement participé à des courses. Pour financer sa passion, il a créé une concession, en vendant essentiellement des voitures étrangères. Sa recherche d'un fournisseur de voitures anglaises fiables a conduit à sa rencontre avec Henry Royce.
+		 a étudié l'ingénierie mécanique à Cambridge. Le premier étudiant à posséder un véhicule, il a rapidement participé à des courses. Pour financer sa passion, il a créé une concession, en vendant essentiellement des voitures étrangères. Sa recherche d'un fournisseur de voitures anglaises fiables a conduit à sa rencontre avec Henry Royce.
 
 Le premier aviateur à réaliser une double traversée de la Manche, il a été tué lorsque son avion s'est écrasé lors d'une fête aérienne en juillet 1910.</h3></div>
-	<div id="block-history"><img src="img/fondateur1.jpg" alt="" style=margin-left:150px></div>
-	<div id="block-history"><img src="img/fondateur2.jpg" alt="" alt="" style=margin-right:150px></div>
+	<div id="block-history"><img src="img/fondateur1.jpg" alt="Charles Rolls" style=margin-left:150px></div>
+	<div id="block-history"><img src="img/fondateur2.jpg" alt="" alt="Sir Henry Royce" style=margin-right:150px></div>
 	<div id="block-history">
 		<h3>Sir Henry Royce
 Connu pour son attention aux détails et sa recherche de la perfection, Henry Royce a déposé son premier brevet (la douille d'ampoule à baïonnette) en 1887. Sa société produisait des dynamos, des moteurs électriques et des grues.
