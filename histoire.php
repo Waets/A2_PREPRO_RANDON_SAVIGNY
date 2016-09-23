@@ -2,7 +2,7 @@
 include"header.php";
 ?>
 	<link rel="stylesheet" href="style.css">
-	<section class="background">
+	<section class="history">
 		<section class="texte">
 			<div id="titre">
 				<p>

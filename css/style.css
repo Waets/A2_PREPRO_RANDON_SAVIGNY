@@ -8119,20 +8119,20 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-.background {
+.history {
   background-color: rgba(195, 195, 195, 0.2);
   height: 600px;
   margin-left: 150px;
   margin-right: 150px;
   border-radius: 8px;
 }
-.background .texte {
+.history .texte {
   text-align: left;
   border-radius: 8px;
   color: black;
   font-family: "De luxe";
 }
-.background .texte #img {
+.history .texte #img {
   float: right;
   margin: 50px;
 }
