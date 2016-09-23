@@ -8254,6 +8254,9 @@ img {
   right: 50%;
   opacity: 0.7;
 }
+.logo:hover {
+  opacity: 1.0;
+}
 
 .hero {
   background-size: 150%;
