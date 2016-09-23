@@ -34,18 +34,19 @@ $police:"De luxe";
 	
 	.texte1 {
 		text-align: left;
-		border-radius: 25px;
+		border-radius:10px;
 		color: black;
 		font-family: $police	;
 			}
 		}
 }
 #block-history{
-	margin-top: 15 px;
+	margin-top: 10 px;
 	float: left;
 	width: 25%;
 	height: 400px;
 	background-color: #959595;
+	font-family: $police;
 	img{
 		padding-top: 70px;
 	}
