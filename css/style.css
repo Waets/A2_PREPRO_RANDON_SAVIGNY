@@ -8124,6 +8124,7 @@ button.close {
   height: 600px;
   margin-left: 150px;
   margin-right: 150px;
+  border-radius: 8px;
 }
 .background .texte {
   text-align: left;
@@ -8155,6 +8156,13 @@ button.close {
   width: 25%;
   height: 400px;
   background-color: #959595;
+}
+
+#titre {
+  text-align: center;
+  color: white;
+  font-family: "De luxe";
+  margin-top: 100px;
 }
 
 /*Time for the CSS*/

@@ -10,6 +10,7 @@ $police:"De luxe";
 	height: 600px;
 	margin-left: 150px;
 	margin-right: 150px;
+	border-radius: 8px;
 	.texte {
 		text-align: left;
 		border-radius: 8px;
@@ -47,5 +48,13 @@ $police:"De luxe";
 	background-color: #959595;
 	
 }
+
+
+#titre{
+	text-align: center;
+	color: white;
+	font-family: $police;
+	margin-top: 100px;}
+
 
 
