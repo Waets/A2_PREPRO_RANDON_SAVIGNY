@@ -8120,7 +8120,7 @@ button.close {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 .background {
-  background-color: #696969;
+  background-color: rgba(195, 195, 195, 0.2);
   height: 600px;
   margin-left: 150px;
   margin-right: 150px;
@@ -8154,8 +8154,8 @@ button.close {
   margin-top: 10 px;
   float: left;
   width: 25%;
-  height: 400px;
-  background-color: #696969;
+  height: 380px;
+  background-color: rgba(195, 195, 195, 0.2);
   font-family: "De luxe";
 }
 #block-history img {
@@ -8164,6 +8164,14 @@ button.close {
 }
 
 #titre {
+  text-align: center;
+  color: white;
+  font-family: "De luxe";
+  margin-top: 100px;
+}
+
+#titre2 {
+  padding-bottom: 1000px;
   text-align: center;
   color: white;
   font-family: "De luxe";
