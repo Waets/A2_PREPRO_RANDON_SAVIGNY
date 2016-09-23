@@ -30,7 +30,7 @@ include "header.php";
 
         <div class="col-md-9 col-md-offset-3">
             <div class="single-car">
-                <img src="img/phantomsalon.jpg" alt="Smiley face" width="100%" height="700">
+                <span id="one"><img src="img/phantomsalon.jpg" alt="Smiley face" width="100%" height="700"></span>
                 <div class="overlay">
                     <h2>Phantom</h2>
                     <p>
@@ -72,7 +72,7 @@ include "header.php";
         </div>
            <div class="col-md-9 col-md-offset-3">
             <div class="single-car">
-                <img src="img/ghostsalon.jpg" alt="Smiley face" width="100%" height="700">
+                <span id="two"><img src="img/ghostsalon.jpg" alt="Smiley face" width="100%" height="700"></span>
                 <div class="overlay">
                     <h2>Ghost</h2>
                     <p>
@@ -90,7 +90,7 @@ Uncompromising, never ordinary, Ghost offers an effortless and immersive experie
         </div>
         <div class="col-md-9 col-md-offset-3">
             <div class="single-car">
-                <img src="img/wraithsalon.jpg" alt="Smiley face" width="100%" height="700">
+                <span id="three"><img src="img/wraithsalon.jpg" alt="Smiley face" width="100%" height="700"></span>
                 <div class="overlay">
                     <h2>Wraith</h2>
                     <p>
@@ -106,7 +106,7 @@ Continuing the style, the largest coach doors in the Rolls-Royce family lead you
         </div>
         <div class="col-md-9 col-md-offset-3">
             <div class="single-car">
-                <img src="img/dawnsalon.jpg" alt="Smiley face" width="100%" height="700">
+                <span id="four"><img src="img/dawnsalon.jpg" alt="Smiley face" width="100%" height="700"></span>
                 <div class="overlay">
                     <h2>Dawn</h2>
                     <p>
